@@ -1,4 +1,4 @@
-# big_data_class
+# CPS Decision Tree Project 
 
 * Decision_tree.ipynb: The main code of the decision tree, including to generate graphs 
 * Network.ipynb: The simple neural network 
